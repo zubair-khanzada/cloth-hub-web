@@ -66,7 +66,7 @@ body {
   }
 }
 .header-logo {
-  width: 200px;
+  width: 55px;
 }
 .css-19kzrtu {
   padding: 0 30px !important;
@@ -406,7 +406,7 @@ body {
 
 @media (min-width: 900px) and (max-width: 1099px) {
   .header-logo {
-    width: 160px;
+    width: 55px;
   }
   .MuiFormControl-root {
     max-width: 190px;
@@ -454,7 +454,7 @@ body {
 
 @media (min-width: 700px) and (max-width: 899px) {
   .header-logo {
-    width: 170px;
+    width: 55px;
   }
   .slick-prev {
     z-index: 1;
@@ -496,7 +496,7 @@ body {
 
 @media (min-width: 600px) and (max-width: 699px) {
   .header-logo {
-    width: 150px;
+    width: 55px;
   }
   .slick-prev {
     z-index: 1;
@@ -539,7 +539,7 @@ body {
 
 @media (min-width: 450px) and (max-width: 599px) {
   .header-logo {
-    width: 150px;
+    width: 55px;
   }
   .slick-prev {
     z-index: 1;
@@ -618,7 +618,7 @@ body {
 
 @media (min-width: 320px) and (max-width: 449px) {
   .header-logo {
-    width: 150px;
+    width: 55px;
   }
   .slick-prev {
     z-index: 1;
